@@ -4,7 +4,7 @@
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 
-![Lorem Picsum Gorsel](https://resimyukle.io/r/sg9QKPyOlM)
+![Lorem Picsum Gorsel](https://ichef.bbci.co.uk/news/800/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg.webp) 
 
 
 
